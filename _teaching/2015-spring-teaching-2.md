@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience Summer 2024"
 collection: teaching
 type: "Workshop"
 permalink: https://ckim0306.github.io/teaching/
