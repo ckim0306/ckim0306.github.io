@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Claire Kim / Claire's Personal Website"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Claire Kim"
-description              : &description "PhD student in Todd Castoe's lab"
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://ckim0306.github.io/"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "https://ckim0306.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Claire Kim"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
