@@ -1,11 +1,11 @@
 ---
-title: "Teaching Experience Summer 2024"
+title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: https://ckim0306.github.io/teaching/
+permalink: /teaching/2014-spring-teaching-1
 venue: "University of Texas Arlington, Biology"
-date: 2024-06-10 
-location: "Arlington, Texas"
+date: 2015-01-01
+location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
