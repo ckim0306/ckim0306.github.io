@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Claire Kim"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Claire Kim"
+description              : &description "PhD student in Todd Castoe's lab"
 url                      : https://ckim0306.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ckim0306/ckim0306.github.io"
@@ -22,9 +22,9 @@ repository               : "ckim0306/ckim0306.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Claire Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "RNA research"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
