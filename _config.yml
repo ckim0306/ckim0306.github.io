@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Home page"
 title_separator          : "-"
 name                     : &name "Claire Kim"
 description              : &description "PhD student in Todd Castoe's lab"
@@ -31,7 +31,6 @@ author:
   email            : "claire.kim@uta.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   orcid            : "https://orcid.org/0009-0002-2219-227X"
 
   # Repositories and software development
@@ -77,7 +76,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification :google-site-verification=dLSsKW9dfpy1RFbjOpRQvopu6NBYBSlZYFtiGl-fISM
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
