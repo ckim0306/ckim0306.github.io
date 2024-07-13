@@ -1,21 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Human Anatomy and Physiology II"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Texas Arlington, Biology"
-date: 2015-01-01
-location: "City, Country"
+date: 2024-07-10
+location: "Arlington, Texas"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Biol 1442. BIOLOGY II FOR SCIENCE MAJORS: ECOLOGY AND EVOLUTION. 
-======
-Helped students.
-
-Living laughing loving 
-======
-
-Heading 3
-======
+Summer Session 2024: A physiology course where I am coordinated and taught labs about the cardiovascular system (blood,heart,blood vessels),cardiovascular physiology, respiratory system,digestive system,urinary system, and the reproductive system). Also administrating practicals and teaching presentations.
