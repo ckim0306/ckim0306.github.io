@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Qualitative Biology,University of Arlington,2029 (expected)
+* Ph.D in Qualitative Biology, University of Arlington,2029 (expected)
 * B.S. in Ecology,Evolution, and Behavior, University of California Los Angeles, 2022
 
 Work experience

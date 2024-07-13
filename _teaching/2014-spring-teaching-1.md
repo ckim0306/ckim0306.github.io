@@ -11,3 +11,5 @@ location: "Arlington, Texas"
 Summer Session 2024: A physiology course where I am coordinated and taught labs about the cardiovascular system (blood,heart,blood vessels),cardiovascular physiology, respiratory system,digestive system,urinary system, and the reproductive system). Also administrating practicals and teaching presentations.
 
 [Course Curriculum](https://catalog.uta.edu/search/?P=BIOL%202458){: .btn .btn--info .text-center}
+
+
