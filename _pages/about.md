@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello Hello! Welcome to my website :>. I am currently a 1st year PhD student in the [Todd Castoe's](https://www.castoelaboratory.org/) lab studying functional genomics and how changes to gene regulatory networks lead to phenotypic diversification. Currently I am working with rattlesnakes in order to figure out the gene regulatory pathway of the accessory vs the main venom gland and how it leads to differential venom expression.
+Hello Hello! Welcome to my website :>. I am currently a 1st year PhD student in the [Todd Castoe's lab](https://www.castoelaboratory.org/)  studying functional genomics and how changes to gene regulatory networks lead to phenotypic diversification. Currently I am working with rattlesnakes in order to figure out the gene regulatory pathway of the accessory vs the main venom gland and how it leads to differential venom expression.
 
 The Accessory Venom Gland Vs Main Venom Gland
 ======
