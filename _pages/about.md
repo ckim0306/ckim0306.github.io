@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Full time PhD student and part time monkey painter"
+title: "Studying the origins of gene regulatory networks and phenotypic variation using snake venom"
 author_profile: true
 redirect_from: 
   - /about/
