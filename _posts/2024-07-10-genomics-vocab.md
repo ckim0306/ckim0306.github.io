@@ -1,7 +1,7 @@
 ---
 title: 'Genomics Vocabulary with Claire Kim :>'
 date: 2024-07-10
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2024/07/genomics-vocab/
 tags:
   - Learning
 ---
